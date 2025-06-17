@@ -1,0 +1,12 @@
+1. Create repository
+    Add a README file
+    Add .gitignore
+        .gitignore template: python
+    Choose a license: MIT Licence
+
+2. Click on Code and copy the path to clone the repository
+3. Right click on windos folder where you need the project to be clonned and choose Open in Terminal
+4. Enter the following command in terminal -  git clone paste the path copied from step 2
+5. Enter into the folder using the cd command in terminal
+6. Enter the command "code ." in terminal, so that it will open the VS code
+2. template.py
