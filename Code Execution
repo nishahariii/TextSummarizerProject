@@ -9,4 +9,13 @@
 4. Enter the following command in terminal -  git clone paste the path copied from step 2
 5. Enter into the folder using the cd command in terminal
 6. Enter the command "code ." in terminal, so that it will open the VS code
-2. template.py
+7. Create template.py and run using the command 'python template.py'. This will create the folder and associated files
+8. Create virtual environment
+    cd path/to/your/project
+    python -m venv venv
+    To activate using Command Prompt:	path\to\venv\Scripts\activate OR  To activate using PowerShell	.\path\to\venv\Scripts\Activate
+
+9. Create requirements.txt
+10. Create setup.py
+11. pip install -r requirements.txt (Check the package name if you are getting error like "Could not find a version that satisfies the requirement")
+
