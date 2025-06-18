@@ -13,7 +13,7 @@ list_of_files =[
     f"src/{project_name}/utils/common_.py",
     f"src/{project_name}/logging/__init__.py",
     f"src/{project_name}/config/__init__.py",
-    f"src/{project_name}/configuration/config.py",
+    f"src/{project_name}/config/configconfiguration.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
@@ -22,7 +22,7 @@ list_of_files =[
     "app.py",
     "main.py",
     "Dockerfile",
-    "equirements.txt",
+    "requirements.txt",
     "setup.py",
     "research/trials.ipynb"
 ]
