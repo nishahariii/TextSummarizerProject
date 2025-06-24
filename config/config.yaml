@@ -1,7 +1,8 @@
-artifacts_root:artifacts
+artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/nishahariii/DataSets/blob/main/samsumdata.zip
-  local_data_file: artifacts/data_ingestion.data.zip
+  source_URL: https://github.com/nishahariii/DataSets/raw/refs/heads/main/samsumdata.zip
+  # source_URL: https://github.com/entbappy/Branching-tutorial/blob/master/samsumdata.zip
+  local_data_file: artifacts/data_ingestion_data.zip
   unzip_dir: artifacts/data_ingestion
