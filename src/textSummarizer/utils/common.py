@@ -1,8 +1,8 @@
 import os
-from box.exceptions  import BoxValueError
-import yaml
+from box.exceptions  import BoxValueError #pip install "python-box[all]~=7.0" --upgrade
+import yaml #pip install pyyaml~=6.0 --upgrade
 from textSummarizer.logging import logger
-from ensure import ensure_annotations
+from ensure import ensure_annotations #pip install ensure~=0.0.3 --upgrade
 from box import ConfigBox
 from pathlib import Path
 from typing import Any
