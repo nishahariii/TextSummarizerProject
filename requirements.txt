@@ -5,3 +5,6 @@
 # datasets
 # protobuf  
 # transformers[sentencepiece]
+# torch 
+#transformers[torch]
+tqdm
