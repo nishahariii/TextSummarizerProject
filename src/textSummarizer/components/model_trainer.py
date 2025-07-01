@@ -54,8 +54,8 @@ class ModelTrainer:
             data_collator=seq2seq_data_collator
         )
 
-        trainer.train()
+        # trainer.train()
 
-        model_pegasus.save_pretrained(os.path.join(self.config.root_dir,"pegasus-samsum-model"))
+        # model_pegasus.save_pretrained(os.path.join(self.config.root_dir,"pegasus-samsum-model"))
 
-        tokenizer.save_pretrained(os.path.join(self.config.root_dir,"tokenizer"))
+        # tokenizer.save_pretrained(os.path.join(self.config.root_dir,"tokenizer"))
