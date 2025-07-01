@@ -9,6 +9,9 @@
 #transformers[torch]
 # evaluate
 # tqdm
-nltk
-absl-py
-rouge_score
+# nltk
+# absl-py
+# rouge_score
+fastapi
+uvicorn
+starlette
