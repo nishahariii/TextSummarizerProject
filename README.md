@@ -11,3 +11,5 @@
 8. app.py
 
 
+277872301137.dkr.ecr.eu-north-1.amazonaws.com/text-summarization
+
